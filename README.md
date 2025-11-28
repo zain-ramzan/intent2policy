@@ -13,13 +13,19 @@ Shows intent to policy translation and basic rule verification: an essential ste
 
 ## Quick Start
 1. Clone:
+   ```
    git clone https://github.com/zain-ramzan/intent2policy.git
+   ```
 2. Create venv and install:
+   ```
    python -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
+   ```
 3. Run:
+   ```
    streamlit run app.py
+   ```
 4. Paste an intent JSON or upload file, press Generate
 
 ## Policy format
