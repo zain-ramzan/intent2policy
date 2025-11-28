@@ -3,7 +3,7 @@
 Convert intent JSON into firewall/ACL rules and detect simple conflicts.
 
 ## Why
-Shows intent → policy translation and basic rule verification: an essential step for policy-based management compatibility in intent-based security.
+Shows intent to policy translation and basic rule verification: an essential step for policy-based management compatibility in intent-based security.
 
 ## Features
 - Deterministic rule generation (templates)
